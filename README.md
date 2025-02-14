@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @TahaUsmanK
 - 👀 I’m interested in: Programming
-- 🌱 I’m currently learning: React Native
-- 😄 Pronouns: He/him/his
